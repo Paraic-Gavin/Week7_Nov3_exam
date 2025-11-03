@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 
 public class Customer {
-    public static void main(String[]args)
+    public static void main(String[]args);
     private int CustomerId;
     private String name;
     private String email;
